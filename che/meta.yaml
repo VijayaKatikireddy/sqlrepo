@@ -37,4 +37,4 @@ spec:
     - mountPath: "/home/wazi/.m2"
       name: m2
   extensions:
-  - https://github.com/VijayaKatikireddy/vkrepo/blob/master/db2forzosdeveloperextension-0.1.0.vsix
+  - https://github.com/VijayaKatikireddy/sqlrepo/blob/master/db2forzosdeveloperextension-0.1.0.vsix
